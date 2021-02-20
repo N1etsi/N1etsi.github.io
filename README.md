@@ -1,26 +1,22 @@
-teste
-# teste
-## teste
-### teste
-#### teste
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
+#About Me
+  Hi! I'm Jorge Miguel and I'm a future Electrical & Computers Engineer from FEUP. I am currently I am pursuing a master's degree in Networks and Services.
+  
+#Interests
+  -PC building/gaming
+  -Building/Flying RC planes/quadcopters
+  -Space/Rockets
+  -Electronic/μControllers
+  -3D printing/design
+  
+#Projects 
+##!In construction!
+  -Office
+  -Drone/Quad
+  -Several planes
+  -Volume deck/USB Hub
+  
+  -TecStorm Sattelite
+  -RedBull Soap Box Car Race
+  -LusoRacingTeam
+  -LusoBee
+  
