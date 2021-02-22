@@ -5,7 +5,7 @@
   - PC building/gaming
   - Building/Flying RC planes/quadcopters
   - Space/Rockets
-  - Electronic/μControllers
+  - Electronics/μControllers
   - 3D printing/design
   
 # Projects 

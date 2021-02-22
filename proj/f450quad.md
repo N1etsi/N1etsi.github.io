@@ -22,7 +22,7 @@ This was the result:
 *insert pick here* //fc on drone
 
 Now we have all of the hardware sorted out, but it still needs the code to run and be able to control itself. This is where the real trouble started, I used C/C++ on top of the Arduino ecosystem, but for the most part I avoided using the already provided Arduino functions and ended up using registers to perform actions more efficiently. It took a little bit to figure it out, but I got the hang of it. In the end, I got a product ready to be tested and ready to have fun with.
-[Flight Controller Rep](https://github.com/N1etsi/STM32F1_AF_B1)
+[Flight Controller rep](https://github.com/N1etsi/STM32F1_AF_B1)
 
 ## Testing
 !Warning, looking back at this, I should really have waited and tested this drone in a proper place for it, not in the middle of my living room, fortunately no injuries or major scares occurred from these tests.
