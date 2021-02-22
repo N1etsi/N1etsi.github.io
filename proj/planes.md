@@ -1,2 +1,2 @@
 Most end up like this:
-![Image](proj/usual_result.jpg)
+![Image](usual_result.jpg)
