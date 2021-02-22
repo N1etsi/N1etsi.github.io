@@ -24,6 +24,23 @@ This was the result:
 Now we have all of the hardware sorted out, but it still needs the code to run and be able to control itself. This is where the real trouble started, I used C/C++ on top of the Arduino ecosystem, but for the most part I avoided using the already provided Arduino functions and ended up using registers to perform actions more efficiently. It took a little bit to figure it out, but I got the hang of it. In the end, I got a product ready to be tested and ready to have fun with.
 [Flight Controller Rep](url to FC rep)
 
-##Testing
+## Testing
 !Warning, looking back at this, I should really have waited and tested this drone in a proper place for it, not in the middle of my living room, fortunately no injuries or major scares occurred from these tests.
+After some tuning, this was the result:
+*insert yt video*
+
+## Ground communication and station
+To better monitor flight with the drone I developed a small program using Processing to display all the info transmitted from the drone to a receiver connected to a PC (using the NRF24L01 on both sides). It's a little bit unpolished but it kept track of all the user inputs and the state of the drone.
+*insert demo video*
+
+
+## Phase 2
+After these initial tests I was running out of program space on the chosen microcontroller (the fact that was programmed using the Arduino framework didn't help). Although I initially was considering upgrading it to a Blackpill (using either an STM32F401 or STM32F411) I decided to purchase an already built flight controller, with the intent of running already made software in the first place and then port my old code to this new much nicer board and continue improving the code.
+The chosen flight controller was the Betaflight Omnibus F4 V3s, powered by an STM32F405 MCU.
+
+
+
+## Future ideas
+- A better ground station with communication both ways
+- Include GPS guidance
 

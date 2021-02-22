@@ -12,7 +12,7 @@
 > ## !In construction!
   - [Drone/Quad](proj/f450quad.md)
   - Office
-  - Several planes
+  - [Several planes](proj/planes.md)
   - Volume deck/USB Hub
   
   - TecStorm Sattelite
