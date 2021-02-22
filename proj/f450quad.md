@@ -31,7 +31,7 @@ After some tuning, this was the result:
 
 ## Ground communication and station
 To better monitor flight with the drone I developed a small program using Processing to display all the info transmitted from the drone to a receiver connected to a PC (using the NRF24L01 on both sides). It's a little bit unpolished but it kept track of all the user inputs and the state of the drone.
-*insert demo video*
+[video](https://youtu.be/KNI_z8phdf0)
 
 
 ## Phase 2
