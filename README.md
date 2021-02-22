@@ -2,7 +2,7 @@
   Hi! I'm Jorge Miguel and I'm a future Electrical & Computers Engineer from FEUP. I am currently I am pursuing a master's degree in Networks and Services.
   
 # Interests
-  - PC building/gaming
+  - [PC building/gaming](int/pc_specs.md)
   - Building/Flying RC planes/quadcopters
   - Space/Rockets
   - Electronics/μControllers
