@@ -15,7 +15,7 @@
   - [Several planes](proj/planes.md)
   - Volume deck/USB Hub
   
-  - TecStorm Sattelite
+  - TecStorm Satellite
   - RedBull Soap Box Car Race
   - LusoRacingTeam
   - LusoBee
