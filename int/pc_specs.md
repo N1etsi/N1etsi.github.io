@@ -8,3 +8,11 @@
 - Thermaltake Core G21
 
 
+#Games I play
+- KSP (Kerbal Space Program)
+- Rocket League
+- F1 racing games
+- Assetto Corsa
+- Paladins
+- Rainbow Six Siege
+
