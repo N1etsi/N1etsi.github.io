@@ -1,5 +1,5 @@
 ---
-phase1: putYourIDHere: dMC09v6mXK0
+phase1: dMC09v6mXK0
 ---
 # Quadcopter
 I wanted to learn more about the electronics/protocols used in a flight controller and also learn how we could achieve a stable flight.
@@ -32,7 +32,7 @@ Now we have all of the hardware sorted out, but it still needs the code to run a
 After some tuning, this was the result:
 [video](https://youtu.be/dMC09v6mXK0)
 
-{% include yt_emb.html id='=page.youtubeId %}
+{% include yt_emb.html id='=page.phase1 %}
 
 
 ## Ground communication and station
