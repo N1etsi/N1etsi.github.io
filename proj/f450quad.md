@@ -32,7 +32,7 @@ Now we have all of the hardware sorted out, but it still needs the code to run a
 After some tuning, this was the result:
 [video](https://youtu.be/dMC09v6mXK0)
 
-{% include yt_emb.html id='=page.phase1 %}
+{% include yt_emb.html id=page.phase1 %}
 
 
 ## Ground communication and station
