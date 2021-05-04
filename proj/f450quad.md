@@ -29,6 +29,9 @@ Now we have all of the hardware sorted out, but it still needs the code to run a
 After some tuning, this was the result:
 [video](https://youtu.be/dMC09v6mXK0)
 
+{% include youtubePlayer.html id='dMC09v6mXK0' %}
+
+
 ## Ground communication and station
 To better monitor flight with the drone I developed a small program using Processing to display all the info transmitted from the drone to a receiver connected to a PC (using the NRF24L01 on both sides). It's a little bit unpolished but it kept track of all the user inputs and the state of the drone.
 [video](https://youtu.be/KNI_z8phdf0)
