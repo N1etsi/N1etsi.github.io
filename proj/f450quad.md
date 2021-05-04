@@ -1,3 +1,6 @@
+---
+phase1: putYourIDHere: dMC09v6mXK0
+---
 # Quadcopter
 I wanted to learn more about the electronics/protocols used in a flight controller and also learn how we could achieve a stable flight.
 I had a long summer ahead of me so I decided to do most of the work from scratch. First, I had to source the parts, and after deciding on the size of the frame I would be using it was a matter of looking online for compatible and suitable parts that would fit my budget. So I ended up using this parts:
@@ -29,7 +32,7 @@ Now we have all of the hardware sorted out, but it still needs the code to run a
 After some tuning, this was the result:
 [video](https://youtu.be/dMC09v6mXK0)
 
-{% include yt_emb.html id='dMC09v6mXK0' %}
+{% include yt_emb.html id='=page.youtubeId %}
 
 
 ## Ground communication and station
