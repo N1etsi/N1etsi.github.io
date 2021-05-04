@@ -14,7 +14,7 @@
   - Office
   - [Several planes](proj/planes.md)
   - Volume deck/USB Hub
-  - [F1 fantasy data analysis](https://n1etsi.github.io/fantasy/)
+  - [F1 fantasy data analysis](proj/f1_fantasy.md)
 
   - TecStorm Satellite
   - RedBull Soap Box Car Race

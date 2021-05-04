@@ -21,7 +21,7 @@ After some research I used these parts on the FC:
 - extras like a voltage regulator and status LED's
 
 This was the result:   
-*insert pick here* //self
+![Image](fc_v01.jpg)
 *insert pick here* //fc on drone
 
 Now we have all of the hardware sorted out, but it still needs the code to run and be able to control itself. This is where the real trouble started, I used C/C++ on top of the Arduino ecosystem, but for the most part I avoided using the already provided Arduino functions and ended up using registers to perform actions more efficiently. It took a little bit to figure it out, but I got the hang of it. In the end, I got a product ready to be tested and ready to have fun with.
@@ -49,4 +49,5 @@ The chosen flight controller was the Betaflight Omnibus F4 V3s, powered by an ST
 ## Future ideas
 - A better ground station with communication both ways
 - Include GPS guidance
+- 3D printed canopy
 
