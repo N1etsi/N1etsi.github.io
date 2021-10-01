@@ -16,5 +16,5 @@
 
   - TecStorm Satellite
   - RedBull Soap Box Car Race
-  - LusoRacingTeam
+  - [LusoRacingTeam](https://www.youtube.com/watch?v=BDeMgbAwbAg)
   - LusoBee
