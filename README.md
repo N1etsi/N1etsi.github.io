@@ -13,8 +13,10 @@
   - [Several planes](proj/planes.md)
   - [Volume deck/USB Hub](proj/deck.md)
   - [F1 fantasy data analysis](proj/f1_fantasy.md)
+  - [Homelab Server](proj/serv.md)
 
   - TecStorm Satellite
   - RedBull Soap Box Car Race
   - [LusoRacingTeam](https://www.youtube.com/watch?v=BDeMgbAwbAg)
   - LusoBee
+  - 
